@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 <head>
 	<meta name="viewport" content="width=device-width" />
@@ -93,4 +93,5 @@
 <p>WordPress is free software, and is released under the terms of the <abbr title="GNU General Public License">GPL</abbr> version 2 or (at your option) any later version. See <a href="license.txt">license.txt</a>.</p>
 
 </body>
-</html>
+</html> -->
+### Design X Develop Wordpress Sandbox
